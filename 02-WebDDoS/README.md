@@ -8,13 +8,11 @@
 
 
 ### 学習環境
-TryHackMe Detecting Web DDoS Task4 & Task5<br>
-（Web攻撃の検知）<br>
+TryHackMe / Detecting Web DDoS（Web攻撃の検知）/ Task4 & Task5<br>
 [https://tryhackme.com/room/detectingwebddos](https://tryhackme.com/room/detectingwebddos)<br><br>
 
 ※確認のみ<br>
-TryHackMe Detecting Web Attacks Task4<br>
-（Web DDoS攻撃の検知）<br>
+TryHackMe / Detecting Web Attacks（Web DDoS攻撃の検知）/ Task4<br>
 [https://tryhackme.com/room/detectingwebattacks](https://tryhackme.com/room/detectingwebattacks)
 
 ### 必要なもの
@@ -25,10 +23,10 @@ TryHackMe Detecting Web Attacks Task4<br>
 
 #### 【Task4】
 - DoS攻撃のログを確認する
-    # 今いる場所を確認する
+``` # 今いる場所を確認する
     pwd
     # ログファイルを開く
-`cd Desktop/
+cd Desktop/
     wc access.log
     cat access.log
     # 攻撃者のIPアドレスを特定する
