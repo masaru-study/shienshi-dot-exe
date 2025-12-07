@@ -24,3 +24,7 @@
 #### 【支援士.exe #1】 Pass the HashをNTLM認証に試してみる #tryhackme
 - [動画](https://youtu.be/qJbJejgqokE?si=dSORszdvt1bO3bKA)
 - [詳細](https://github.com/masaru-study/noritama/tree/main/01-PassTheHash)
+
+#### 【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme
+- [動画]()
+- [詳細](https://github.com/masaru-study/noritama/tree/main/02-WebDDoS)
