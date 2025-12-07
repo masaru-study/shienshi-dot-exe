@@ -38,8 +38,7 @@ grep <特定したIPアドレス> access.log
 ```
 #### 【Task5】DDoS攻撃のログを確認する
 ```
-# access_ddos.logファイルを確認する
-/home/ubuntu/Documents/access_ddos.log
+# access_ddos.logファイルを確認する(/home/ubuntu/Documents/access_ddos.log)
 cd ../Documents/
 wc access_ddos.log
 

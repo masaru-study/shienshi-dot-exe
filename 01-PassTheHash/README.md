@@ -22,6 +22,7 @@ TryHackMe / Windows PrivEsc（Windows 特権昇格）/ Task12<br>
 ```
 # RDPで脆弱なWindowsを起動<br>
 xfreerdp /u:user /p:password321 /cert:ignore /v:<targetIP>
+
 # ユーザを確認
 whoami
 ```

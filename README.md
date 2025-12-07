@@ -17,14 +17,14 @@
 
 
 ## リンク
-#### 【 支援士.exeの再生リスト】
-[動画再生リスト](https://youtube.com/playlist?list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&si=otyNvP9Onfu0f3wb)
+####【 支援士.exeの再生リスト】
+- [動画再生リスト](https://youtube.com/playlist?list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&si=otyNvP9Onfu0f3wb)
 
 
 #### 【支援士.exe #1】 Pass the HashをNTLM認証に試してみる #tryhackme
 - [動画](https://youtu.be/qJbJejgqokE?si=dSORszdvt1bO3bKA)
-- [詳細](https://github.com/masaru-study/noritama/tree/main/01-PassTheHash)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/01-PassTheHash)
 
 #### 【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme
 - [動画]()
-- [詳細](https://github.com/masaru-study/noritama/tree/main/02-WebDDoS)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/02-WebDDoS)
