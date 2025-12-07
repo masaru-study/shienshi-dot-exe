@@ -12,9 +12,9 @@
 セキュリティに興味を持つきっかけになるような、楽しく学べる内容をお届けしております！
 
 ### 出演者
-- まさる（教育系Youtuber）<br>[Xアカウント @masaru_benkyou](https://x.com/masaru_benkyou)
-- epika（セキュリティエンジニア）<br>[Xアカウント @epika025](https://x.com/epika025)<br><br>
-
+- まさる（教育系Youtuber）<br>Xアカウント [@masaru_benkyou](https://x.com/masaru_benkyou)
+- epika（セキュリティエンジニア）<br>Xアカウント 日常：[@epika025](https://x.com/epika025) 　／　お知らせ用：[@epikapi025](https://x.com/epikapi025)<br>
+<br><br>
 
 ## リンク
 #### 【 支援士.exeの再生リスト】

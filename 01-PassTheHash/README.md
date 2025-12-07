@@ -20,7 +20,7 @@ TryHackMe / Windows PrivEsc（Windows 特権昇格）/ Task12<br>
 
 #### 【Task1】脆弱なWindowsにRDP接続
 ```
-# 脆弱なWindowsにRDP接続する<br>
+# 脆弱なWindowsにRDP接続する
 xfreerdp /u:user /p:password321 /cert:ignore /v:<targetIP>
 
 # ユーザを確認
