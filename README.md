@@ -13,7 +13,7 @@
 
 ### 出演者
 - まさる（教育系Youtuber）<br>Xアカウント [@masaru_benkyou](https://x.com/masaru_benkyou)
-- epika（セキュリティエンジニア）<br>Xアカウント 日常：[@epika025](https://x.com/epika025) 　／　お知らせ用：[@epikapi025](https://x.com/epikapi025)<br>
+- epika（セキュリティエンジニア）<br>Xアカウント 日常：[@epika025](https://x.com/epika025) ／お知らせ用：[@epikapi025](https://x.com/epikapi025)<br>
 <br><br>
 
 ## リンク
