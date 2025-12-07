@@ -1,4 +1,4 @@
-i## 【支援士.exe #2】Web / DDoS
+## 【支援士.exe #2】Web / DDoS
 ### 動画
 [【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme](https://www.youtube.com/watch?v=shzxxHEUryA&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=2&t=2037s)
 
@@ -15,7 +15,7 @@ TryHackMe / Detecting Web Attacks（Web DDoS攻撃の検知）/ Task4<br>
 [https://tryhackme.com/room/detectingwebattacks](https://tryhackme.com/room/detectingwebattacks)
 
 ### 必要なもの
-- TryHackMeアカウント（Premium）
+- TryHackMeアカウント（Premium）<br>
 ※Detecting Web Attacksは無料アカウントでも可
 
 ## 実行するコマンド
@@ -33,8 +33,7 @@ cat access.log
 # 攻撃者のIPアドレスを特定する
 awk -F- '{print $1}' access.log | sort -u
 
-# 異常なステータスコードを特定する
-# ※<特定したIPアドレス>の部分は見つけた値に置き換えてください
+# 異常なステータスコードを特定する  ※<特定したIPアドレス>の部分は見つけた値に置き換えてください
 grep <特定したIPアドレス> access.log
 ```
 #### 【Task5】DDoS攻撃のログを確認する
@@ -46,3 +45,4 @@ wc access_ddos.log
 
 # 攻撃者のIPアドレスを特定する
 awk -F- '{print $1}' access_ddos.log | sort -u
+```
