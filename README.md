@@ -28,3 +28,7 @@
 #### 【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme
 - [動画](https://www.youtube.com/watch?v=lZWXdp9wuko)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/02-WebDDoS)
+
+#### 【支援士.exe #3】 
+- [動画]()
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/03-OWASP)

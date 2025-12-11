@@ -1,13 +1,13 @@
-## 【支援士.exe #2】Web / DDoS
+# 【支援士.exe #2】Web / DDoS
 ### 動画
-[【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme](https://www.youtube.com/watch?v=lZWXdp9wuko)
+[【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme](https://www.youtube.com/watch?v=shzxxHEUryA&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=2&t=2037s)
 
 ### 支援士のキーワード
 「サービス妨害攻撃/パスワードリスト攻撃」<br>
 令和７年 秋期 情報処理安全確保支援士試験 午前Ⅱ 問７
 
 
-### 学習環境
+## 学習環境
 TryHackMe / Detecting Web DDoS（Web攻撃の検知）/ Task4 & Task5<br>
 [https://tryhackme.com/room/detectingwebddos](https://tryhackme.com/room/detectingwebddos)<br><br>
 ※確認のみ<br>
