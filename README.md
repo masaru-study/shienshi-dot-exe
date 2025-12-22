@@ -13,7 +13,7 @@
 
 ### 出演者
 - まさる（教育系Youtuber）<br>Xアカウント [@masaru_benkyou](https://x.com/masaru_benkyou)
-- epika（セキュリティエンジニア）<br>Xアカウント 日常：[@epika025](https://x.com/epika025) ／お知らせ用：[@epikapi025](https://x.com/epikapi025)<br>
+- epika（セキュリティエンジニア）<br>Xアカウント [@epika025](https://x.com/epika025) 
 <br><br>
 
 ## リンク
@@ -29,6 +29,6 @@
 - [動画](https://www.youtube.com/watch?v=lZWXdp9wuko)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/02-WebDDoS)
 
-#### 【支援士.exe #3】 
-- [動画]()
+#### 【支援士.exe #3】 2025年版 OWASPTop10 1位 アクセス制御不備 #tryhackme
+- [動画](https://youtu.be/WQ62i5p2xwU?si=WwlXviQIvfOtbFsG)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/03-OWASP)
