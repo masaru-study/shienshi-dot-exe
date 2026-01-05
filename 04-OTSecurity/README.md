@@ -29,7 +29,7 @@ from pymodbus.client import ModbusTcpClient as ModbusClient
 python3 -m pip install "pymodbus==2.5.3"
 ```
 
-※\<targetIP>は起動したマシンのIPアドレスに変更してください
+※\<targetIP>は起動したマシンのIPアドレスに変更してください<br>
 ①discovery.py<br>
 `python3 discovery.py <targetIP>`
 
