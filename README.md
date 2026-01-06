@@ -22,18 +22,18 @@
 
 
 ## リンク
-#### 【 支援士.exeの再生リスト】
+#### [【 支援士.exeの再生リスト】](https://youtube.com/playlist?list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&si=otyNvP9Onfu0f3wb)
 - [動画再生リスト](https://youtube.com/playlist?list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&si=otyNvP9Onfu0f3wb)
 
 
-#### 【支援士.exe #1】 Pass the HashをNTLM認証に試してみる #tryhackme
-- [動画](https://youtu.be/qJbJejgqokE?si=dSORszdvt1bO3bKA)
+#### [【支援士.exe #1】 Pass the HashをNTLM認証に試してみる #tryhackme](https://www.youtube.com/watch?v=WQ62i5p2xwU&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=1)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/01-PassTheHash)
 
-#### 【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme
-- [動画](https://www.youtube.com/watch?v=lZWXdp9wuko)
+#### [【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme](https://www.youtube.com/watch?v=lZWXdp9wuko&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=2)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/02-WebDDoS)
 
-#### 【支援士.exe #3】 2025年版 OWASPTop10 1位 アクセス制御不備 #tryhackme
-- [動画](https://youtu.be/WQ62i5p2xwU?si=WwlXviQIvfOtbFsG)
+#### [【支援士.exe #3】 2025年版 OWASPTop10 1位 アクセス制御不備 #tryhackme](https://www.youtube.com/watch?v=qJbJejgqokE&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=3)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/03-OWASP)
+
+#### [【支援士.exe #4】 Modbusを使ってOTセキュリティを考える #tryhackme](https://www.youtube.com/watch?v=b3RVLqu4IEk&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=4)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/04-OTSecurity)
