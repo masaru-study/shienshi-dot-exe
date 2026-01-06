@@ -2,8 +2,7 @@
 ![title](https://github.com/user-attachments/assets/c5885bef-97a8-4e4d-a663-4b8d7a579497)
 
 ### 動画
-[【支援士.exe #3】 2025年版 OWASPTop10 1位 アクセス制御不備 #tryhackme](https://youtu.be/WQ62i5p2xwU?si=EXvm_WUes1P2gRIy)
-
+[【支援士.exe #3】 2025年版 OWASPTop10 1位 アクセス制御不備 #tryhackme](https://youtu.be/WQ62i5p2xwU?si=UP_UFxX-Gf-Q1gvX)
 ### 支援士のキーワード
 「OWASP」<br>
 令和元年 秋期 情報処理安全確保支援士試験 午後Ⅱ 問１ 設問３

@@ -1,7 +1,7 @@
 # 【支援士.exe #4】  Modbus／OTセキュリティ
 ![title](https://github.com/user-attachments/assets/ea95fd82-e244-46bd-bf9b-5c8df1df33d4)
 ### 動画
-[<動画タイトル>](<動画リンク>)
+[【支援士.exe #4】 Modbusを使ってOTセキュリティを考える #tryhackme](https://www.youtube.com/watch?v=b3RVLqu4IEk)
 
 ### 支援士のキーワード
 「OTセキュリティ」<br>
