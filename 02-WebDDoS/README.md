@@ -2,7 +2,7 @@
 ![title](https://github.com/user-attachments/assets/849fd6b4-de6a-4b8c-90c1-b281ca303e85)
 
 ### 動画
-[【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme]((https://youtu.be/lZWXdp9wuko?si=ZuU3vjhHRE3e3VQL))
+[【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme](https://youtu.be/lZWXdp9wuko?si=ZuU3vjhHRE3e3VQL)
 
 ### 支援士のキーワード
 「サービス妨害攻撃/パスワードリスト攻撃」<br>
