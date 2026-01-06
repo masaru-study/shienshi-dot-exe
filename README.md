@@ -23,7 +23,7 @@
 
 ## リンク
 #### [【 支援士.exeの再生リスト】](https://youtube.com/playlist?list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&si=otyNvP9Onfu0f3wb)
-<br><br>
+<br>
 
 #### [【支援士.exe #1】 Pass the HashをNTLM認証に試してみる #tryhackme](https://youtu.be/qJbJejgqokE?si=hHCXZOgnsPcoI14E)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/01-PassTheHash)
