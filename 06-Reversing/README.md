@@ -25,15 +25,15 @@ Kali Linuxなど、使用する仮想環境から下記のインストールフ�
 
 ※以降の<zipfile-name>はダウンロードしたファイル名に置き換えてください
 ```
-# JDKをインストールする
+# JDKをインストールする(26の数字はバージョンによって異なる可能性あり)
 sudo apt update
-sudo apt install openjdk-17-jdk
+sudo apt install openjdk-26-jdk
 
 # Ghidraのダウンロードフォルダを解凍する
 cd Download
 unzip <zipfile-name>
 
-# Ghidraをダウンロードする
+# Ghidraを起動する
 cd <zipfile-name>
 ./ghidraRun.bat
 ```
