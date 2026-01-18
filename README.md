@@ -36,3 +36,6 @@
 
 #### [【支援士.exe #4】 Modbusを使ってOTセキュリティを考える #tryhackme](https://www.youtube.com/watch?v=b3RVLqu4IEk)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/04-OTSecurity)
+
+#### [【支援士.exe #5】 AIセキュリティ実践 ゲームでプロンプトインジェクションを考える](https://youtu.be/qc4dTtTeopQ?si=SWaJ4n69IDIJPy1S)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/05-AISecurity)
