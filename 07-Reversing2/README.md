@@ -1,4 +1,5 @@
-## 【支援士.exe #6】 リバースエンジニアリング/ CTF Reversing
+## 【支援士.exe #7】 リバースエンジニアリング PART2 / CTF Reversing
+![title](https://github.com/user-attachments/assets/f97d46cd-9dde-4068-88aa-d94a0bfa0319)
 [<動画タイトル>](<動画リンク>)
 
 ### 支援士のキーワード
@@ -35,6 +36,6 @@ unzip <zipfile-name>
 
 # Ghidraを起動する
 cd <zipfile-name>
-./ghidraRun.bat
+./ghidraRun.batA
 ```
 
