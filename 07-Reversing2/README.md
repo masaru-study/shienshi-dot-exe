@@ -1,4 +1,4 @@
-## 【支援士.exe #7】 リバースエンジニアリング PART2 / CTF Reversing
+=## 【支援士.exe #7】 リバースエンジニアリング PART2 / CTF Reversing
 ![title](https://github.com/user-attachments/assets/f97d46cd-9dde-4068-88aa-d94a0bfa0319)
 [<動画タイトル>](<動画リンク>)
 
@@ -36,6 +36,14 @@ unzip <zipfile-name>
 
 # Ghidraを起動する
 cd <zipfile-name>
-./ghidraRun.batA
-```
+./ghidraRun
 
+```
+#### プロジェクトの作成
+Ghidraが起動したら、 [File] > [New Project] > [Non-Shared Project] を選択<br>
+Project Nameを「Ghidra1」とする（任意の名前でOK）<br>
+#### ファイルのインポート
+ [File] > [Import File] > [Desktop] > [crackme] > [Select File To Import] を選択<br>
+ [Language] を Filter:で [gcc] と検索<br>
+ [x86 default 64 little gcc]を選択<br>
+ [crack]をダブルクリック > [OK] > [Analyze]
