@@ -1,4 +1,4 @@
-=## 【支援士.exe #7】 リバースエンジニアリング PART2 / CTF Reversing
+## 【支援士.exe #7】 リバースエンジニアリング PART2 / CTF Reversing
 ![title](https://github.com/user-attachments/assets/f97d46cd-9dde-4068-88aa-d94a0bfa0319)
 [<動画タイトル>](<動画リンク>)
 
@@ -16,6 +16,20 @@ TryHackMe / 0x41haz/ Task1<br>
 - Kali Linuxなどの仮想環境（推奨）<br>
 
 ## 実行するコマンド
+
+```
+# 表層解析
+file crackme
+
+# 動的解析
+./crackme
+
+# 静的解析
+strings crackme
+
+# hexeditorを起動する
+hexeditor
+```
 
 #### Ghidraをインストールする
 ・Ghidraをダウンロードする
