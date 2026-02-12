@@ -1,3 +1,5 @@
+// 脆弱性を含む可能性があるため、実環境でこのまま使用しないでください
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

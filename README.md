@@ -39,3 +39,9 @@
 
 #### [【支援士.exe #5】 AIセキュリティ実践 ゲームでプロンプトインジェクションを考える](https://youtu.be/qc4dTtTeopQ?si=SWaJ4n69IDIJPy1S)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/05-AISecurity)
+
+#### [【支援士.exe #6】 リバースエンジニアリング入門 ](https://youtu.be/LekZVSCqutc?si=MJR8bxzfdONi-5hy)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/06-Reversing1)
+
+#### [【支援士.exe #7】 リバーシングツールGhidraを使ってソースコードを復元してみる](https://www.youtube.com/watch?v=qm9ujU8YzQE&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=7)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/07-Reversing2)

@@ -1,6 +1,6 @@
 ## 【支援士.exe #7】 リバースエンジニアリング PART2 / CTF Reversing
 ![title](https://github.com/user-attachments/assets/f97d46cd-9dde-4068-88aa-d94a0bfa0319)
-[<動画タイトル>](<動画リンク>)
+[【支援士.exe #7】 リバーシングツールGhidraを使ってソースコードを復元してみる](https://www.youtube.com/watch?v=qm9ujU8YzQE&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=7)
 
 ### 支援士のキーワード
 「リバースエンジニアリング」<br>
@@ -8,11 +8,10 @@
 
 
 ### 学習環境
-TryHackMe / 0x41haz/ Task1<br>
-[https://tryhackme.com/room/0x41haz](https://tryhackme.com/room/0x41haz)<br><br>
+オリジナル問題 / crackme <br>
+[https://github.com/masaru-study/shienshi-dot-exe/blob/main/07-Reversing2/crackme](https://github.com/masaru-study/shienshi-dot-exe/blob/main/07-Reversing2/crackme)<br><br>
 
 ### 必要なもの
-- TryHackMeアカウント<br>
 - Kali Linuxなどの仮想環境（推奨）<br>
 
 ## 実行するコマンド

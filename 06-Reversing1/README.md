@@ -1,6 +1,6 @@
 ## 【支援士.exe #6】 リバースエンジニアリング PART1 / 入門編
 ![title](https://github.com/user-attachments/assets/533618f2-8557-4f18-b61a-1d44e7af4503)
-[<動画タイトル>](<動画リンク>)
+[【支援士.exe #6】 リバースエンジニアリング入門](https://youtu.be/LekZVSCqutc?si=MJR8bxzfdONi-5hy)
 
 ### 支援士のキーワード
 「リバースエンジニアリング」<br>
