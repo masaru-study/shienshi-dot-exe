@@ -45,3 +45,6 @@
 
 #### [【支援士.exe #7】 リバーシングツールGhidraを使ってソースコードを復元してみる](https://www.youtube.com/watch?v=qm9ujU8YzQE&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=7)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/07-Reversing2)
+
+#### [【支援士.exe #8】 ](https://www.youtube.com/watch?v=fFxSdjQCEjg&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=8&t=1s)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/08-BufferOverflow1)
