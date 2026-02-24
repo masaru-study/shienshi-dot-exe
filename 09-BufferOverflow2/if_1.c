@@ -2,11 +2,11 @@
 
 int main(void)
 {
-    int name;
+    int num;
 
-    if(name == 1){
+    if(num == 1){
         printf("お世話になっております。\n");
-    }else if(name == 2){
+    }else if(num == 2){
         printf("Hello World!\n");
     }else{
         printf("こんにちは\n");
