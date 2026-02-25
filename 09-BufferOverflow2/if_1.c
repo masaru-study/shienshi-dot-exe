@@ -9,7 +9,7 @@ int main(void)
     }else if(num == 2){
         printf("Hello World!\n");
     }else{
-        printf("こんにちは\n");
+        printf("Excellent!!!\n");
     }
 
     return 0;
