@@ -5,6 +5,9 @@ int main(void)
     int num ;
     int check = 0;
 
+    /* numに値を代入してください */
+    num = ;
+
     if(num < 10)
     {
         check = 1;

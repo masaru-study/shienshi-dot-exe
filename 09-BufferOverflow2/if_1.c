@@ -3,6 +3,9 @@
 int main(void)
 {
     int num;
+    
+    /* numに値を代入してください */
+    num = ;
 
     if(num == 1){
         printf("お世話になっております。\n");

@@ -1,8 +1,9 @@
+/* 100000000より大きい値を入れて実行しないでください */
 #include <stdio.h>
 
 int main(void)
 {
-    double i = 0;
+    int i = 0;
 
     while(i < 100000000)
     {
