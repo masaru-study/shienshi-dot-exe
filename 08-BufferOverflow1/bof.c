@@ -1,3 +1,7 @@
+/* バッファオーバーフローを引き起こすコードです
+　 セキュリティ学習の目的以外で利用しないでください
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

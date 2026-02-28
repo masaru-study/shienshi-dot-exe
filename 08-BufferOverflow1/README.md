@@ -1,7 +1,7 @@
 ## 【支援士.exe #8】 / バッファオーバーフロー PART1 / プログラミング入門編
 ![title](https://github.com/user-attachments/assets/c6fc5883-45cf-4829-8e98-efbc1e71ad40)
 ### 動画
-[<動画タイトル>](https://www.youtube.com/watch?v=fFxSdjQCEjg&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=8&t=1s)
+[【支援士.exe #8】 セキュアプログラミングに挑戦しませんか？バッファオーバーフロー実演してみたけど．．．](https://www.youtube.com/watch?v=fFxSdjQCEjg&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=8&t=1s)
 
 ### 支援士のキーワード
 「バッファオーバーフロー」<br>
