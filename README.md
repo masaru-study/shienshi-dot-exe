@@ -48,3 +48,6 @@
 
 #### [【支援士.exe #8】 セキュアプログラミングに挑戦しませんか？バッファオーバーフロー実演してみたけど．．． ](https://www.youtube.com/watch?v=fFxSdjQCEjg&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=8&t=1s)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/08-BufferOverflow1)
+
+#### [【支援士.exe #9】 セキュアプログラミングに挑戦しませんか？C言語のif文に挑戦する！ ](https://youtu.be/XLMaSoSLaNA?si=v3D4ElF-Fs6rgURU)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/08-BufferOverflow2)
