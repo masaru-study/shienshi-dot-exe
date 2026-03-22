@@ -50,4 +50,7 @@
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/08-BufferOverflow1)
 
 #### [【支援士.exe #9】 セキュアプログラミングに挑戦しませんか？C言語のif文に挑戦する！ ](https://youtu.be/XLMaSoSLaNA?si=v3D4ElF-Fs6rgURU)
-- [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/08-BufferOverflow2)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/09-BufferOverflow2)
+
+#### [セキュアプログラミングに挑戦！C言語の文字列【支援士.exe #10】](https://www.youtube.com/watch?v=UomIN8eOpDU&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/10-BufferOverflow3)
