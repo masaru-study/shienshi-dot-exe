@@ -6,18 +6,18 @@
 #include <stdlib.h>
 #include <string.h>
 
-int main(int password, char *pass[])
+int main(int argc, char *argv[])
 {
     char buffer[8];
     int check = 0;
 
-    if(password <= 1)
+    if(argc <= 1)
     {
         printf("input password");
         return 0;
     }
 
-    strcpy(buffer, pass[1]);
+    strcpy(buffer, argv[1]);
 
     if(strcmp(buffer,"DotExe") == 0)
     {

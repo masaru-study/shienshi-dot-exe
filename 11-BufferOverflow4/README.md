@@ -1,5 +1,5 @@
 ## 【支援士.exe #11】 / バッファオーバーフロー PART4 / 引数・ポインタ編
-![title]()
+![title](https://github.com/user-attachments/assets/a04e24b9-4859-42c5-b2f9-120323f35964)
 ### 動画
 [セキュアプログラミングに挑戦！C言語の文字列【支援士.exe #11】]()
 
