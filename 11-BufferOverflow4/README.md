@@ -1,7 +1,7 @@
 ## 【支援士.exe #11】 / バッファオーバーフロー PART4 / 引数・ポインタ編
 ![title](https://github.com/user-attachments/assets/a04e24b9-4859-42c5-b2f9-120323f35964)
 ### 動画
-[セキュアプログラミングに挑戦！C言語の文字列【支援士.exe #11】]()
+[セキュアプログラミングに挑戦！C言語の文字列【支援士.exe #11】](https://youtu.be/C1T8m3T4jNA?si=SX1ui5px2-8OvQZQ)
 
 ### 支援士のキーワード
 「バッファオーバーフロー」<br>

@@ -54,3 +54,6 @@
 
 #### [セキュアプログラミングに挑戦！C言語の文字列【支援士.exe #10】](https://www.youtube.com/watch?v=UomIN8eOpDU&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/10-BufferOverflow3)
+
+#### [セキュアプログラミングに挑戦！C言語の配列・ポインタ【支援士.exe #11】](https://youtu.be/C1T8m3T4jNA?si=SX1ui5px2-8OvQZQ)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/11-BufferOverflow4)
