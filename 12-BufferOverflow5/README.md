@@ -1,4 +1,4 @@
-## 【支援士.exe #12】 / バッファオーバーフロー PART4 / 引数・ポインタ編
+## 【支援士.exe #12】 / バッファオーバーフロー PART5 / 原因と対策編
 ![title](https://github.com/user-attachments/assets/dd067885-1cc2-4a69-8270-52ff2c3f493b)
 ### 動画
 
