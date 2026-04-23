@@ -24,7 +24,15 @@ https://www.draj.or.jp/guideline/<br>
 - 警察庁 サイバー空間をめぐる脅威の情勢等<br>
 https://www.npa.go.jp/publications/statistics/cybersecurity/index.html<br>
 令和７年におけるサイバー空間をめぐる脅威の情勢等について<br>
-https://www.npa.go.jp/publications/statistics/cybersecurity/data/R7/R07_cyber_jousei.pdf
+https://www.npa.go.jp/publications/statistics/cybersecurity/data/R7/R07_cyber_jousei.pdf<br>
+マルウェア｢ランサムウェア｣の脅威と対策（対策編）<br>
+https://www.keishicho.metro.tokyo.lg.jp/kurashi/cyber/joho/ransomware_taisaku.html
 
-## 実行するコマンド
 
+## 使用するURL
+- 日本データ復旧協会<br>
+https://www.draj.or.jp/guideline/<br>
+ベンダー選定チェックシート<br>
+
+- NO MORE RANSOM<br>
+https://www.nomoreransom.org/ja/index.html
