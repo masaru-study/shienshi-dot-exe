@@ -57,3 +57,6 @@
 
 #### [セキュアプログラミングに挑戦！C言語の配列・ポインタ【支援士.exe #11】](https://youtu.be/C1T8m3T4jNA?si=SX1ui5px2-8OvQZQ)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/11-BufferOverflow4)
+
+#### [バッファーオーバフロー！原因と対策【支援士.exe #12】](https://youtu.be/WYCG8dIV0Cc?si=MgqKKmgpctLHZPnB)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/12-BufferOverflow5)

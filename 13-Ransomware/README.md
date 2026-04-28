@@ -35,4 +35,9 @@ https://www.draj.or.jp/guideline/<br>
 ベンダー選定チェックシート<br>
 
 - NO MORE RANSOM<br>
-https://www.nomoreransom.org/ja/index.html
+https://www.nomoreransom.org/ja/index.html<br>
+
+- Virustotal<br>
+https://www.virustotal.com/gui/home/upload<br>
+以下ハッシュ値<br>
+` 337d21f964091417f22f35aee35e31d94fc3f35179c36c0304eef6e4ae983292`
