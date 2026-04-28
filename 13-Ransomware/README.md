@@ -41,3 +41,9 @@ https://www.nomoreransom.org/ja/index.html<br>
 https://www.virustotal.com/gui/home/upload<br>
 以下ハッシュ値<br>
 ` 337d21f964091417f22f35aee35e31d94fc3f35179c36c0304eef6e4ae983292`
+
+
+### セキュリティ図鑑
+「情報セキュリティ10大脅威 2026」組織編<br>
+https://www.ipa.go.jp/security/10threats/10threats2026.html<br>
+https://www.ipa.go.jp/security/10threats/omgdg50000008fi8-att/presen_2026_soshiki_16_9.pdf<br>
