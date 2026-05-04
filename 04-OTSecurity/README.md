@@ -25,11 +25,12 @@ TryHackMe / Attacking ICS Plant #1（ICS工場への攻撃）/ Task2&Task3&Task4
 # 実行前に各プログラムの5行目を以下に変更してください
 from pymodbus.client import ModbusTcpClient as ModbusClient
 
-# 有料アカウントの方は以下を最初に実行することで、上記の操作が不要になります
+# 有料アカウントの方は以下を最初に実行すると、上記の操作は不要です
 python3 -m pip install "pymodbus==2.5.3"
 ```
 
 ※\<targetIP>は起動したマシンのIPアドレスに変更してください<br>
+※セキュリティ学習目的以外で使用しないでください<br>
 ①discovery.py<br>
 `python3 discovery.py <targetIP>`
 

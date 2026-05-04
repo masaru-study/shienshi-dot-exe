@@ -25,31 +25,31 @@
 #### [【 支援士.exeの再生リスト】](https://youtube.com/playlist?list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&si=otyNvP9Onfu0f3wb)
 <br>
 
-#### [【支援士.exe #1】 Pass the HashをNTLM認証に試してみる #tryhackme](https://youtu.be/qJbJejgqokE?si=hHCXZOgnsPcoI14E)
+#### [Pass the Hash攻撃！NTLM認証 #tryhackme【支援士.exe #1】](https://youtu.be/qJbJejgqokE?si=hHCXZOgnsPcoI14E)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/01-PassTheHash)
 
-#### [【支援士.exe #2】 Web DDoSのログを見てみる #tryhackme](https://youtu.be/lZWXdp9wuko?si=ZuU3vjhHRE3e3VQL)
+#### [Web DDoSのログ！ #tryhackme【支援士.exe #2】](https://youtu.be/lZWXdp9wuko?si=ZuU3vjhHRE3e3VQL)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/02-WebDDoS)
 
-#### [【支援士.exe #3】 2025年版 OWASPTop10 1位 アクセス制御不備 #tryhackme](https://youtu.be/WQ62i5p2xwU?si=UP_UFxX-Gf-Q1gvX)
+#### [OWASPTop10 1位！アクセス制御不備 #tryhackme【支援士.exe #3】](https://youtu.be/WQ62i5p2xwU?si=UP_UFxX-Gf-Q1gvX)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/03-OWASP)
 
-#### [【支援士.exe #4】 Modbusを使ってOTセキュリティを考える #tryhackme](https://www.youtube.com/watch?v=b3RVLqu4IEk)
+#### [OTセキュリティ入門！Modbus #tryhackme【支援士.exe #4】](https://www.youtube.com/watch?v=b3RVLqu4IEk)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/04-OTSecurity)
 
-#### [【支援士.exe #5】 AIセキュリティ実践 ゲームでプロンプトインジェクションを考える](https://youtu.be/qc4dTtTeopQ?si=SWaJ4n69IDIJPy1S)
+#### [AIセキュリティ入門！プロンプトインジェクション【支援士.exe #5】](https://youtu.be/qc4dTtTeopQ?si=SWaJ4n69IDIJPy1S)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/05-AISecurity)
 
-#### [【支援士.exe #6】 リバースエンジニアリング入門 ](https://youtu.be/LekZVSCqutc?si=MJR8bxzfdONi-5hy)
+#### [リバースエンジニアリング入門！マルウェア解析【支援士.exe #6】](https://youtu.be/LekZVSCqutc?si=MJR8bxzfdONi-5hy)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/blob/main/06-Reversing1)
 
-#### [【支援士.exe #7】 リバーシングツールGhidraを使ってソースコードを復元してみる](https://www.youtube.com/watch?v=qm9ujU8YzQE&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=7)
+#### [リバースエンジニアリング入門！Ghidra【支援士.exe #7】](https://www.youtube.com/watch?v=qm9ujU8YzQE&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=7)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/07-Reversing2)
 
-#### [【支援士.exe #8】 セキュアプログラミングに挑戦しませんか？バッファオーバーフロー実演してみたけど．．． ](https://www.youtube.com/watch?v=fFxSdjQCEjg&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=8&t=1s)
+#### [セキュアプログラミングに挑戦！バッファオーバーフロー実演【支援士.exe #8】](https://www.youtube.com/watch?v=fFxSdjQCEjg&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO&index=8&t=1s)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/08-BufferOverflow1)
 
-#### [【支援士.exe #9】 セキュアプログラミングに挑戦しませんか？C言語のif文に挑戦する！ ](https://youtu.be/XLMaSoSLaNA?si=v3D4ElF-Fs6rgURU)
+#### [セキュアプログラミングに挑戦！C言語のif文【支援士.exe #9】](https://youtu.be/XLMaSoSLaNA?si=v3D4ElF-Fs6rgURU)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/09-BufferOverflow2)
 
 #### [セキュアプログラミングに挑戦！C言語の文字列【支援士.exe #10】](https://www.youtube.com/watch?v=UomIN8eOpDU&list=PLfrpqyRFsglJS2KMDgRL_xtbM5Pkn6BEO)

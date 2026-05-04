@@ -1,9 +1,16 @@
 ## 【支援士.exe #13】 / ランサムウェア
-![title]()
+![title](https://github.com/user-attachments/assets/7797721a-3a7d-44ac-bb7a-ceab07732d34)
 ### 動画
+[ランサムウェア対応手順！もしも感染したら？【支援士.exe #13】]()
 
-【2025年秋対策】ランサムウェア 前編
-https://youtu.be/MOYF9EmbPZ4?si=DbTLEnZJXEZxUCjN
+### 参考動画
+【2025年秋対策】ランサムウェア 前編<br>
+https://youtu.be/MOYF9EmbPZ4?si=DbTLEnZJXEZxUCjN<br>
+【2025年秋対策】ランサムウェア 中編 適切なバックアップ<br>
+https://youtu.be/lfIPSokGY90?si=ctYQe0cBec3rmXbH<br>
+【2025年秋対策】ランサムウェア 後編 EDR<br>
+https://youtu.be/g127dCD4wyM?si=WVvdXqQHQEqqX4re<br>
+
 
 ### 支援士のキーワード
 「ランサムウェア」<br>
