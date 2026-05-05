@@ -60,3 +60,6 @@
 
 #### [バッファーオーバフロー！原因と対策【支援士.exe #12】](https://youtu.be/WYCG8dIV0Cc?si=MgqKKmgpctLHZPnB)
 - [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/12-BufferOverflow5)
+
+#### [ランサムウェア対応手順！もしも感染したら？【支援士.exe #13】](https://youtu.be/cntf0VIRoh8?si=vJuXQysUuNVZYZsx)
+- [詳細](https://github.com/masaru-study/shienshi-dot-exe/tree/main/13-Ransomware)

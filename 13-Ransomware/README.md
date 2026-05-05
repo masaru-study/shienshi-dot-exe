@@ -1,7 +1,7 @@
-## 【支援士.exe #13】 / ランサムウェア
+## 【支援士.exe #13】 / ランサムウェア / 対応手順
 ![title](https://github.com/user-attachments/assets/7797721a-3a7d-44ac-bb7a-ceab07732d34)
 ### 動画
-[ランサムウェア対応手順！もしも感染したら？【支援士.exe #13】]()
+[ランサムウェア対応手順！もしも感染したら？【支援士.exe #13】](https://youtu.be/cntf0VIRoh8?si=vJuXQysUuNVZYZsx)
 
 ### 参考動画
 【2025年秋対策】ランサムウェア 前編<br>
