@@ -22,5 +22,5 @@
 
 
 ## セキュリティ図鑑
-「」<br>
-URL<br>
+「安全なSQLの呼び出し方」<br>
+https://www.ipa.go.jp/security/vuln/websecurity/ug65p900000196e2-att/000017320.pdf<br>
